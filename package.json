@@ -1,0 +1,11 @@
+{
+  "name": "informationalsite",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
